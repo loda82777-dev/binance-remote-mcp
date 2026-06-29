@@ -1,0 +1,6 @@
+fastmcp
+fastapi
+uvicorn
+python-binance
+httpx
+python-dotenv
